@@ -1,0 +1,2 @@
+# FirstTry
+Firstly trying GitHub
